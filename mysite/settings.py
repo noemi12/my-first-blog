@@ -25,7 +25,7 @@ SECRET_KEY = '!)026(87(i0(jhl%^a(l^6$(5+ybjp5%c7s#gfq^m0yc@b@&cz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<monge_donaire>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'noemi12.pythonanywhere.com']
 
 
 # Application definition
